@@ -699,7 +699,7 @@
     "companyId": "company_3a3270a32e919416e66b343aac704df3",
     "company": "Meesho",
     "companyDomain": "meesho.com",
-    "role": "Manager - Risk Analytics - User Lending",
+    "role": "AM/M - Risk Analytics - User Lending",
     "applyUrl": "https://go.landed.jobs/cljzvpu",
     "location": "Bengaluru, India",
     "locations": [
@@ -2403,6 +2403,127 @@
     "companyBadges": [
       "TrueUp Cloud Infra 50",
       "$194B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:250596f9-57fc-4770-b123-77446f1d962b",
+    "companyId": "company_cb6c12daea1f0a0f4ffdfbb9212d6441",
+    "company": "Aqua Security",
+    "companyDomain": "aquasec.com",
+    "role": "Tech Lead-Software Engineering",
+    "applyUrl": "https://go.landed.jobs/fxk10lr",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "SQL",
+      "REST APIs",
+      "RDBMS",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "SQLite",
+      "NoSQL",
+      "MongoDB",
+      "Redis",
+      "Cassandra",
+      "Couchbase"
+    ],
+    "posted": "2026-09-28T10:30:47.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f0c43a68-400b-40be-aa81-d83803e71a97",
+    "companyId": "company_564f1a28d664e7fa079d7e749e85c0f4",
+    "company": "AlphaSense",
+    "companyDomain": "alpha-sense.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/tabr4gg",
+    "location": "Bengaluru, India · Pune, India",
+    "locations": [
+      "Bengaluru, India",
+      "Pune, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "go",
+      "SQL",
+      "Snowflake",
+      "BigQuery",
+      "Databricks"
+    ],
+    "posted": "2026-09-28T07:09:20.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:03b8b8f1-9f63-4cd1-9f2d-c6186b9605bb",
+    "companyId": "company_564f1a28d664e7fa079d7e749e85c0f4",
+    "company": "AlphaSense",
+    "companyDomain": "alpha-sense.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/1bacfbu",
+    "location": "Delhi, India · Pune, India",
+    "locations": [
+      "Delhi, India",
+      "Pune, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "go",
+      "SQL",
+      "Snowflake",
+      "BigQuery",
+      "Databricks"
+    ],
+    "posted": "2026-09-28T07:09:12.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8eeeabc1-d193-4f13-abb7-73f8fe9affdf",
+    "companyId": "company_564f1a28d664e7fa079d7e749e85c0f4",
+    "company": "AlphaSense",
+    "companyDomain": "alpha-sense.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/cwj90i0",
+    "location": "Pune, India",
+    "locations": [
+      "Pune, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "go",
+      "SQL",
+      "Snowflake",
+      "BigQuery",
+      "Databricks"
+    ],
+    "posted": "2026-09-28T07:09:09.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.5B valuation"
     ]
   },
   {
@@ -5215,7 +5336,7 @@
     "companyId": "company_8888a0e93999906ea208c9650b71aeed",
     "company": "Innovaccer",
     "companyDomain": "innovaccer.com",
-    "role": "Software Development Engineer - III (Backend + AI)",
+    "role": "01-Software Development Engineer - III",
     "applyUrl": "https://go.landed.jobs/i2hiqyh",
     "location": "🌐 Remote (India)",
     "locations": [
@@ -7325,41 +7446,6 @@
     ]
   },
   {
-    "dedupeKey": "job:250596f9-57fc-4770-b123-77446f1d962b",
-    "companyId": "company_cb6c12daea1f0a0f4ffdfbb9212d6441",
-    "company": "Aqua Security",
-    "companyDomain": "aquasec.com",
-    "role": "Tech Lead-Software Engineering",
-    "applyUrl": "https://go.landed.jobs/fxk10lr",
-    "location": "🌐 Remote (India)",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "SQL",
-      "REST APIs",
-      "RDBMS",
-      "MySQL",
-      "PostgreSQL",
-      "Oracle",
-      "SQLite",
-      "NoSQL",
-      "MongoDB",
-      "Redis",
-      "Cassandra",
-      "Couchbase"
-    ],
-    "posted": "2026-09-23T11:22:31.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:d5e404ec-f2cd-4829-8965-16930baf5d6e",
     "companyId": "company_b0b1460d9de5b9f7600436efc7284782",
     "company": "FurtherAI",
@@ -8440,66 +8526,66 @@
     ]
   },
   {
-    "dedupeKey": "job:d6631aca-ae5e-4896-ba1a-4ce79c56c9f5",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Lead Enterprise Software Engineer",
-    "applyUrl": "https://go.landed.jobs/x4g31a8",
-    "location": "Hyderabad, India",
+    "dedupeKey": "job:a4494e6a-77eb-46b2-9fa1-310a03cd2a64",
+    "companyId": "company_765febdc4c4a9ccf50f56d19d030d343",
+    "company": "Locus",
+    "companyDomain": "locus.sh",
+    "role": "Software Development Engineer - 3",
+    "applyUrl": "https://go.landed.jobs/mibd78f",
+    "location": "🌐 Remote (India)",
     "locations": [
-      "Hyderabad, India"
+      "Bengaluru, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Java",
+      "Spring / Spring Boot",
+      "REST APIs",
+      "microservices",
+      "relational + NoSQL databases",
+      "Kafka/RabbitMQ",
+      "Redis/Memcached",
+      "AWS/GCP/Azure",
+      "CI/CD",
+      "automated testing",
+      "observability"
+    ],
+    "posted": "2026-09-28T14:03:04.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:0c1cde5d-a0f7-4d9a-bce5-e776fca95a17",
+    "companyId": "company_4023a5cdb3f8940126ba4ec20a309361",
+    "company": "CashFlo",
+    "companyDomain": "cashflo.io",
+    "role": "QA Tester",
+    "applyUrl": "https://go.landed.jobs/hn9lmq9",
+    "location": "Mumbai, India",
+    "locations": [
+      "Mumbai, India"
     ],
     "remote": "",
     "region": "india",
     "family": "software_engineering",
-    "level": "staff",
+    "level": "mid",
     "skills": [
-      "iOS and Android",
-      "cross-platform mobile framework (Flutter, React Native, etc.)",
-      "CI/CD pipelines for mobile applications",
-      "Agile/Scrum environments"
+      "manual and automated testing",
+      "Selenium",
+      "Cypress",
+      "Playwright",
+      "Postman",
+      "REST Assured",
+      "SQL",
+      "Agile / Scrum"
     ],
-    "posted": "2026-09-23T00:00:00.000Z",
-    "companyTier": "B",
+    "posted": "2026-09-28T13:51:05.000Z",
+    "companyTier": "C",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ef3349c6-140a-4a63-a429-a160ae99f684",
-    "companyId": "company_2b00db9c2e2c3d6441160b132c1d4081",
-    "company": "Cadence",
-    "companyDomain": "cadence.com",
-    "role": "Software Engineer II",
-    "applyUrl": "https://go.landed.jobs/aq5wsx5",
-    "location": "India",
-    "locations": [
-      "India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "CI/CD platforms",
-      "cloud infrastructure",
-      "automation frameworks",
-      "containerized environments",
-      "Azure",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "C/C++ build environments",
-      "Makefiles",
-      "build systems",
-      "software packaging"
-    ],
-    "posted": "2026-09-23T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$93.6B valuation",
-      "Public"
+      "Series B"
     ]
   },
   {
@@ -8522,6 +8608,31 @@
       "SAP BTP"
     ],
     "posted": "2026-09-28T07:14:18.570Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:f1edca3b-7737-4cc2-a8c8-58819e700d20",
+    "companyId": "company_8b1d03769418e7fd2aa1a06a1983218c",
+    "company": "QAD",
+    "companyDomain": "qad.com",
+    "role": "Principal AI Go-to-Market Operations Engineer",
+    "applyUrl": "https://go.landed.jobs/vtipg5m",
+    "location": "Pune, India",
+    "locations": [
+      "Pune, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "LLM",
+      "agentic workflows",
+      "marketing automation",
+      "Salesforce"
+    ],
+    "posted": "2026-09-28T05:19:50.174Z",
     "companyTier": "U",
     "companyBadges": []
   },
@@ -8669,6 +8780,40 @@
     ]
   },
   {
+    "dedupeKey": "job:2a90934a-2fc1-451f-82d7-6f2beed92aa7",
+    "companyId": "company_14b738de412bc33b01e9daae095b1317",
+    "company": "Sabre",
+    "companyDomain": "sabre.com",
+    "role": "Sr Software Engineer HFM",
+    "applyUrl": "https://go.landed.jobs/cid2dlz",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "HFM 11.2.10",
+      "Essbase",
+      "FDMEE",
+      "SAP",
+      "DRM",
+      "Smart View",
+      "Financial Reporting Studio",
+      "Maxl scripts",
+      "Windows server 2012",
+      "perl"
+    ],
+    "posted": "2026-09-28T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$730M valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:52bad8ff-424d-44ac-ae9a-741039c70cc0",
     "companyId": "company_eb28bfe8806064b116c5a7e7c0ecca3e",
     "company": "CME Group",
@@ -8782,69 +8927,6 @@
     ],
     "posted": "2026-09-28T00:00:00.000Z",
     "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:0c1cde5d-a0f7-4d9a-bce5-e776fca95a17",
-    "companyId": "company_4023a5cdb3f8940126ba4ec20a309361",
-    "company": "CashFlo",
-    "companyDomain": "cashflo.io",
-    "role": "QA Tester",
-    "applyUrl": "https://go.landed.jobs/hn9lmq9",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "manual and automated testing",
-      "Selenium",
-      "Cypress",
-      "Playwright",
-      "Postman",
-      "REST Assured",
-      "SQL",
-      "Agile / Scrum"
-    ],
-    "posted": "2026-09-27T18:16:50.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:a4494e6a-77eb-46b2-9fa1-310a03cd2a64",
-    "companyId": "company_765febdc4c4a9ccf50f56d19d030d343",
-    "company": "Locus",
-    "companyDomain": "locus.sh",
-    "role": "Software Development Engineer - 3",
-    "applyUrl": "https://go.landed.jobs/mibd78f",
-    "location": "🌐 Remote (India)",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Java",
-      "Spring / Spring Boot",
-      "REST APIs",
-      "microservices",
-      "relational + NoSQL databases",
-      "Kafka/RabbitMQ",
-      "Redis/Memcached",
-      "AWS/GCP/Azure",
-      "CI/CD",
-      "automated testing",
-      "observability"
-    ],
-    "posted": "2026-09-27T16:52:34.000Z",
-    "companyTier": "U",
     "companyBadges": []
   },
   {
@@ -8998,96 +9080,5 @@
     "posted": "2026-09-27T09:35:06.165Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:466dd31b-c4d0-46bd-bc3b-ae95c363e3d2",
-    "companyId": "company_aec790d28b44b488900f101e00888d2d",
-    "company": "Interactive Brokers",
-    "companyDomain": "interactivebrokers.co.uk",
-    "role": "Software Engineer II",
-    "applyUrl": "https://go.landed.jobs/9afsn8j",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Java",
-      "Unix/Linux",
-      "AngularJS",
-      "ReactJS",
-      "NodeJS",
-      "Java 8 or later",
-      "Oracle/MySQL",
-      "REST based Microservices",
-      "SQL",
-      "relational databases",
-      "Spring framework",
-      "Spring MVC"
-    ],
-    "posted": "2026-09-27T09:35:06.165Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:ad8526d7-3f23-4a32-baef-3dad24aec226",
-    "companyId": "company_dea7169269cd35ead35d282702880095",
-    "company": "AVEVA",
-    "companyDomain": "aveva.com",
-    "role": "IT Oracle Fusion Test Engineer",
-    "applyUrl": "https://go.landed.jobs/9peb68g",
-    "location": "Hyderabad, India",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Azure DevOps (ADO)",
-      "Oracle Fusion Applications",
-      "Software Testing Life Cycle (STLC)",
-      "test case design",
-      "defect management",
-      "requirements traceability"
-    ],
-    "posted": "2026-09-27T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:8f099aa3-85d2-4d27-ae1b-52b953225f65",
-    "companyId": "company_d845fceb86b23150baf38a08875d57f9",
-    "company": "Endava",
-    "companyDomain": "endava.com",
-    "role": "Full stack developer -Angular, .NET and AWS",
-    "applyUrl": "https://go.landed.jobs/hew262r",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "js",
-      "Go",
-      ".NET",
-      "AWS",
-      "CI/CD",
-      "LLMs"
-    ],
-    "posted": "2026-09-26T16:32:55.939Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$160M valuation",
-      "Public"
-    ]
   }
 ]
