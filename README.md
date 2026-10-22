@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://go.landed.jobs/ezhpkug"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></a>
+<a href="https://go.landed.jobs/ezhpkug"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/india-tech-jobs/banner.svg" alt="Tech Jobs in India (2026)" width="100%">
 
