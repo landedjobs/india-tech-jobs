@@ -1627,6 +1627,28 @@
     ]
   },
   {
+    "dedupeKey": "job:efdbed56-4465-4dc5-b341-5d03add40a08",
+    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
+    "company": "Philips",
+    "companyDomain": "philips.com",
+    "role": "Intern – Data Science and AI Engineering",
+    "applyUrl": "https://go.landed.jobs/uurd28w",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "data_science_analytics",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-30T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:92fffe1f-691e-4787-9089-9c3b47fe6284",
     "companyId": "company_87c83743dbf850b8681a09588d3a28ad",
     "company": "PhonePe",
@@ -8634,26 +8656,6 @@
       "Flutter"
     ],
     "posted": "2026-10-28T04:39:11.360Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:a26a5eab-4ab8-40d6-b86b-41bd4e4850bf",
-    "companyId": "company_d82373b0229b8c72b66e14a5f0d2690f",
-    "company": "Hyland",
-    "companyDomain": "hyland.com",
-    "role": "Sr Manager, Data Management and BI Reporting",
-    "applyUrl": "https://go.landed.jobs/3leb164",
-    "location": "Kolkata, India",
-    "locations": [
-      "Kolkata, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_science_analytics",
-    "level": "director",
-    "skills": [],
-    "posted": "2026-10-28T04:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
   },
