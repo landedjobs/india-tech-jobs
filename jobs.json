@@ -1,5 +1,192 @@
 [
   {
+    "dedupeKey": "job:5cc2e2de-1ce7-4afe-aeec-727ef8deb25d",
+    "companyId": "company_cedd88e875a65fcc20b493a603b501ad",
+    "company": "Okta",
+    "companyDomain": "okta.com",
+    "role": "Demo Engineering Developer",
+    "applyUrl": "https://go.landed.jobs/wd84c66",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "IaC",
+      "GraphQL"
+    ],
+    "posted": "2026-11-16T10:54:53.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f4c994c3-45d5-4f7e-8c56-c56b919ab5b3",
+    "companyId": "company_acf96c8e6e0eb96ab2ed6b85193c78aa",
+    "company": "Xendit",
+    "companyDomain": "xendit.co",
+    "role": "Product Manager - Cards",
+    "applyUrl": "https://go.landed.jobs/kde5dru",
+    "location": "India +3",
+    "locations": [
+      "India",
+      "Jakarta, Indonesia",
+      "Kuala Lumpur, Malaysia",
+      "Singapore"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "payment processing"
+    ],
+    "posted": "2026-11-16T07:08:05.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S15",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7586a544-9df7-418e-9fef-d0c0f632ff52",
+    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
+    "company": "Zscaler",
+    "companyDomain": "zscaler.com",
+    "role": "Staff Security Researcher, Exposure Management",
+    "applyUrl": "https://go.landed.jobs/f9gibpg",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-16T03:00:18.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:3ac324f5-e80e-4dbb-a9ef-83a88cc5b5aa",
+    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
+    "company": "Zscaler",
+    "companyDomain": "zscaler.com",
+    "role": "Staff Integration Engineer (Security Platform and Data Pipelines)",
+    "applyUrl": "https://go.landed.jobs/43ihwze",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-16T02:53:01.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:79a8169f-b69d-44cf-9f8c-08562c11569d",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Staff Software Engineer (App-Framework)",
+    "applyUrl": "https://go.landed.jobs/xbf8jmv",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "Databricks",
+      "Java",
+      "Rust",
+      "Scala",
+      "distributed systems"
+    ],
+    "posted": "2026-11-15T04:36:01.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a12a2aa8-723a-443e-95b1-369d3d4b8f50",
+    "companyId": "company_6268792d1010ee198befb473acab3907",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "Systems Engineering Associate",
+    "applyUrl": "https://go.landed.jobs/fte6os0",
+    "location": "Hyderabad, India",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "observability",
+      "AI agents",
+      "Salesforce"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$151B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a90ebd48-6811-43d3-99c4-ba1c0f8277a7",
+    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
+    "company": "Palo Alto Networks",
+    "companyDomain": "paloaltonetworks.com",
+    "role": "Manager, Engineering",
+    "applyUrl": "https://go.landed.jobs/brsquo1",
+    "location": "Pune, India",
+    "locations": [
+      "Pune, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "CI/CD",
+      "Observability",
+      "TypeScript",
+      "js",
+      "MongoDB",
+      "AWS",
+      "distributed systems"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$270B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:8376f3f4-4754-4088-82a3-966f372ddc2e",
     "companyId": "company_5743398d64d1c24406567a3538dfcc1c",
     "company": "Truveta",
@@ -31,6 +218,35 @@
     "companyBadges": [
       "TrueUp HealthTech 50",
       "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:dc9be2c5-098a-4e08-915b-19b9d73655b3",
+    "companyId": "company_4ae8cbd53871b54bd75d691dba393e7e",
+    "company": "Upwind Security",
+    "companyDomain": "upwind.io",
+    "role": "Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/ra1hxr3",
+    "location": "India",
+    "locations": [
+      "India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "developer_relations_solutions",
+    "level": "staff",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ],
+    "posted": "2026-11-14T09:08:14.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Cloud Infra 50",
+      "$1.5B valuation"
     ]
   },
   {
@@ -287,7 +503,7 @@
     "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
     "company": "Zscaler",
     "companyDomain": "zscaler.com",
-    "role": "Software Engineering Architect, Machine Learning",
+    "role": "Senior Principal Engineer – Agentic AI & Distributed Systems",
     "applyUrl": "https://go.landed.jobs/hdu9hzm",
     "location": "Bengaluru, India",
     "locations": [
@@ -597,38 +813,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$151B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:af81f8d4-38c7-4736-ad84-850afc00cf58",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Senior Staff Software Engineer",
-    "applyUrl": "https://go.landed.jobs/c0m9phh",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "Kafka",
-      "go",
-      "TypeScript",
-      "js",
-      "MongoDB",
-      "GraphQL",
-      "AWS",
-      "CI/CD"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
     ]
   },
   {
@@ -1047,29 +1231,6 @@
     ]
   },
   {
-    "dedupeKey": "job:e43905ed-8ee6-4d5e-b0a3-d14f152a4092",
-    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
-    "company": "Zscaler",
-    "companyDomain": "zscaler.com",
-    "role": "Sr. Software Development Engineer (Backend Dev - C)",
-    "applyUrl": "https://go.landed.jobs/efb2vty",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T04:21:02.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$24.4B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:8aa5f57f-682e-40f6-a6bf-69c7ff3a493f",
     "companyId": "company_037666289dcf02951eaa3c9f135a03a3",
     "company": "Instawork",
@@ -1331,38 +1492,266 @@
     ]
   },
   {
-    "dedupeKey": "job:79ed2b44-a68f-47da-8f1f-54d1386ae2bd",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Software Engineering MTS",
-    "applyUrl": "https://go.landed.jobs/welymlc",
-    "location": "Hyderabad, India",
+    "dedupeKey": "job:988345ec-c2d2-4c33-a39c-8b323dbcdd71",
+    "companyId": "company_2412a11d937cd925979b43ccc383e95f",
+    "company": "Texas Instruments",
+    "companyDomain": "ti.com",
+    "role": "Software Engineer",
+    "applyUrl": "https://go.landed.jobs/j65tqmw",
+    "location": "Bengaluru, India",
     "locations": [
-      "Hyderabad, India"
+      "Bengaluru, India"
     ],
-    "remote": "hybrid",
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-16T08:14:17.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:0a60418a-f8b1-4e48-b6bb-4c81362b3f9c",
+    "companyId": "company_56ad9432c3cd24bdd75c68396f2c7c15",
+    "company": "Microchip Technology",
+    "companyDomain": "microchip.com",
+    "role": "Engineer - II Software",
+    "applyUrl": "https://go.landed.jobs/mzu430q",
+    "location": "Chennai, India",
+    "locations": [
+      "Chennai, India"
+    ],
+    "remote": "",
     "region": "india",
     "family": "software_engineering",
     "level": "mid",
     "skills": [
-      "Salesforce",
-      "AWS",
-      "Terraform",
-      "CI/CD",
+      "python",
+      "Azure"
+    ],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$40.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:184dde50-8071-4ae5-abc6-677be0074643",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Software Engineer",
+    "applyUrl": "https://go.landed.jobs/vn08b0c",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
       "microservices",
+      "Kafka",
       "Kubernetes",
       "Docker",
-      "Python",
-      "js",
-      "Ruby",
-      "AI agents"
+      "Distributed Systems"
     ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:324e3028-08ef-44f1-b084-043495ea826a",
+    "companyId": "company_2412a11d937cd925979b43ccc383e95f",
+    "company": "Texas Instruments",
+    "companyDomain": "ti.com",
+    "role": "Applications Engineer",
+    "applyUrl": "https://go.landed.jobs/q12rqxa",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4fcebea9-dc02-41ca-849e-82addbae652a",
+    "companyId": "company_2412a11d937cd925979b43ccc383e95f",
+    "company": "Texas Instruments",
+    "companyDomain": "ti.com",
+    "role": "Applications Engineer",
+    "applyUrl": "https://go.landed.jobs/8ogy5fe",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:78b7e4f3-d1cb-4ee1-97f2-fcd4cfae483d",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Platform Engineer, Finance Systems - SAP S/4 HANA, Oracle EBS admin, Linux/Unix, Exp-7-12 Yrs, Bangalore",
+    "applyUrl": "https://go.landed.jobs/b6yvk4z",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Azure"
+    ],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:764ac620-4b28-466e-a254-686251cc615c",
+    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
+    "company": "AECOM",
+    "companyDomain": "aecom.com",
+    "role": "Air Quality Consultant",
+    "applyUrl": "https://go.landed.jobs/cixdamb",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-15T07:13:20.408Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:9d0a0a19-9066-41d8-95fe-bb9ecf9cfbf6",
+    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
+    "company": "AECOM",
+    "companyDomain": "aecom.com",
+    "role": "Hydrogeology Consultant",
+    "applyUrl": "https://go.landed.jobs/gva1uv8",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-15T07:08:05.702Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6ca3e16f-18d3-4714-a70a-d63dec2282df",
+    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
+    "company": "AECOM",
+    "companyDomain": "aecom.com",
+    "role": "Assistant Engineer - Water Science (Hydro-chemistry)",
+    "applyUrl": "https://go.landed.jobs/rizol72",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-11-15T06:59:58.903Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:3f771d1d-ea9d-4b7c-8fbd-e029fea2ca58",
+    "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
+    "company": "Amgen",
+    "companyDomain": "amgen.com",
+    "role": "Associate System Analyst - Veeva Automation",
+    "applyUrl": "https://go.landed.jobs/pxs2weq",
+    "location": "Hyderabad, India",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "CI/CD"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f7136ffa-50b3-4453-ae9b-f9ff083ba1e1",
+    "companyId": "company_887c4433efad2c2e488eb916f1c8445d",
+    "company": "Amgen",
+    "companyDomain": "amgen.com",
+    "role": "Sr Associate IS Analyst – Veeva Vault Quality",
+    "applyUrl": "https://go.landed.jobs/yvqxp1n",
+    "location": "Hyderabad, India",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Databricks",
+      "Tableau",
+      "Power BI"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -1653,42 +2042,6 @@
     "posted": "2026-11-13T09:10:46.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8d57e974-8cb6-4e94-8086-8031f2706319",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/cbcvgdg",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Java",
-      "distributed systems",
-      "microservices",
-      "JavaScript",
-      "React",
-      "Vue",
-      "Angular",
-      "SQL",
-      "PostgreSQL",
-      "CI/CD",
-      "AWS",
-      "Azure"
-    ],
-    "posted": "2026-11-13T07:12:53.400Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
       "Public"
     ]
   },
@@ -2925,58 +3278,6 @@
     ]
   },
   {
-    "dedupeKey": "job:947764aa-9095-4dc6-b253-8024129bd532",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/ekxv016",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Kubernetes",
-      "distributed systems",
-      "PostgreSQL",
-      "Kafka",
-      "CI/CD"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a084500a-3abf-4763-998e-801027b503ff",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Leader, Software Engineering",
-    "applyUrl": "https://go.landed.jobs/7guz972",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Kubernetes"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:a5da0597-ff24-4d34-8745-7980b2180757",
     "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
     "company": "Philips",
@@ -3174,6 +3475,28 @@
       "Tableau",
       "Power BI"
     ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d3c33005-4901-49e4-99bf-c7fcb3015560",
+    "companyId": "company_e10f5af7f5cb0c43a19eedea83dbf62e",
+    "company": "Arcadis",
+    "companyDomain": "arcadis.com",
+    "role": "Consultant: Data Validation",
+    "applyUrl": "https://go.landed.jobs/uvldg93",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [],
     "posted": "2026-11-13T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
@@ -3390,6 +3713,30 @@
     ]
   },
   {
+    "dedupeKey": "job:29bd6b3e-9f49-44c4-9fb4-f5796163ff6e",
+    "companyId": "company_e10f5af7f5cb0c43a19eedea83dbf62e",
+    "company": "Arcadis",
+    "companyDomain": "arcadis.com",
+    "role": "Workforce Planning Systems Lead",
+    "applyUrl": "https://go.landed.jobs/nbc2ehc",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "product discovery"
+    ],
+    "posted": "2026-11-12T15:13:24.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:6dcac0f3-e48a-4d1b-a255-b653c63f382a",
     "companyId": "company_b91fa61d92ef692fdef4bcf64c9099b3",
     "company": "Allianz",
@@ -3602,35 +3949,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a43bcaea-cbb2-482e-8629-f8825a530bd6",
-    "companyId": "company_e49bea78acf14f5d1cc797297d3e2be4",
-    "company": "Everpure",
-    "companyDomain": "everpuredata.com",
-    "role": "Member of Technical Staff 3 - Backend (EXA)",
-    "applyUrl": "https://go.landed.jobs/memrfel",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "distributed systems",
-      "Python",
-      "Java",
-      "Go",
-      "C++"
-    ],
-    "posted": "2026-11-12T10:40:20.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$25.6B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:0f023500-7433-495f-95ad-b472692901df",
     "companyId": "company_e49bea78acf14f5d1cc797297d3e2be4",
     "company": "Everpure",
@@ -3702,28 +4020,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$115B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d5305811-ab2f-4495-9e88-c827c43b04d5",
-    "companyId": "company_6d433a63fa12815277e8489db83e5f74",
-    "company": "Yum! Brands",
-    "companyDomain": "yum.com",
-    "role": "Data Engineer II",
-    "applyUrl": "https://go.landed.jobs/kdg27qs",
-    "location": "🌐 Remote (India)",
-    "locations": [
-      "India"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-12T08:32:21.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -3887,6 +4183,35 @@
     "posted": "2026-11-12T06:17:14.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:439f5147-5fed-468b-81dc-9b147f0d055e",
+    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
+    "company": "ServiceNow",
+    "companyDomain": "servicenow.com",
+    "role": "Sr Software Engineer",
+    "applyUrl": "https://go.landed.jobs/i9qsl1q",
+    "location": "Hyderabad, India",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Java",
+      "React",
+      "LLMs"
+    ],
+    "posted": "2026-11-12T05:56:37.984Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$115B valuation",
       "Public"
     ]
   },
@@ -4496,33 +4821,30 @@
     ]
   },
   {
-    "dedupeKey": "job:65f6ee44-d864-47c0-9e73-d2a6e02387d5",
-    "companyId": "company_4bafd6112b6dd866fe7ab931ec80e743",
-    "company": "SS&C",
-    "companyDomain": "ssctech.com",
-    "role": "PA26ITOFFQ3055 - Sr. DevOps Engineer",
-    "applyUrl": "https://go.landed.jobs/4thftdb",
-    "location": "Hyderabad, India",
+    "dedupeKey": "job:5a3bdd8b-ec68-4bed-b224-4e172a800017",
+    "companyId": "company_ae146cffa8f7bab954d44161ae313ab8",
+    "company": "Alation",
+    "companyDomain": "alation.com",
+    "role": "Senior Product Manager I",
+    "applyUrl": "https://go.landed.jobs/vd87yav",
+    "location": "Chennai, India",
     "locations": [
-      "Hyderabad, India"
+      "Chennai, India"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "india",
-    "family": "software_engineering",
+    "family": "product_management",
     "level": "senior",
     "skills": [
-      "CI/CD",
-      "Azure",
-      "Terraform",
-      "Kubernetes",
-      "Docker",
-      "Grafana"
+      "data integration",
+      "metadata management",
+      "developer-facing products"
     ],
     "posted": "2026-11-12T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "$18.1B valuation",
-      "Public"
+      "$1.7B valuation",
+      "Series E"
     ]
   },
   {
@@ -4988,12 +5310,47 @@
     ]
   },
   {
-    "dedupeKey": "job:b6ec6d5f-5058-49c8-b034-7befd1de08cd",
-    "companyId": "company_548fff8316ff3b8a015354bf692b1657",
-    "company": "3M",
-    "companyDomain": "3m.com",
-    "role": "Senior Software Developer (AI - Full Stack Developer)",
-    "applyUrl": "https://go.landed.jobs/wod59hs",
+    "dedupeKey": "job:a55deff5-0cb0-4bce-aca0-27753786ee1f",
+    "companyId": "company_11f87127312da267f24138b4122f9636",
+    "company": "SaaS Labs",
+    "companyDomain": "saaslabs.co",
+    "role": "SDE 4 - Backend",
+    "applyUrl": "https://go.landed.jobs/oipre4c",
+    "location": "Bengaluru, India · Noida, India",
+    "locations": [
+      "Bengaluru, India",
+      "Noida, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "REST APIs",
+      "JavaScript",
+      "SQL",
+      "Distributed systems",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Kafka",
+      "Redis",
+      "observability"
+    ],
+    "posted": "2026-11-17T00:12:52.032Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:68dc8b0a-d587-493f-9f73-823d2db75d12",
+    "companyId": "company_9919047e07fc260c90e25fb0abbb771a",
+    "company": "AppLogic Networks",
+    "companyDomain": "applogicnetworks.com",
+    "role": "Senior Test Engineer",
+    "applyUrl": "https://go.landed.jobs/0eq7y5x",
     "location": "Bengaluru, India",
     "locations": [
       "Bengaluru, India"
@@ -5002,45 +5359,93 @@
     "region": "india",
     "family": "software_engineering",
     "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
+    "skills": [
+      "observability",
+      "Python",
+      "continuous integration"
+    ],
+    "posted": "2026-11-17T00:01:37.113Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:bb3d7401-8ab5-4b72-82d3-27964c3190f4",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Sr. Software Engineer (3+ yrs, DevOps, Cloud, Coding, Infra)",
-    "applyUrl": "https://go.landed.jobs/k14pzem",
-    "location": "India",
+    "dedupeKey": "job:b655e41f-4442-4368-94f9-0589be92c2f7",
+    "companyId": "company_9919047e07fc260c90e25fb0abbb771a",
+    "company": "AppLogic Networks",
+    "companyDomain": "applogicnetworks.com",
+    "role": "Senior Software Engineer",
+    "applyUrl": "https://go.landed.jobs/psykliv",
+    "location": "Bengaluru, India",
     "locations": [
-      "India"
+      "Bengaluru, India"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "india",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "Terraform",
-      "CI/CD"
+      "observability",
+      "React",
+      "Python",
+      "Java",
+      "Go",
+      "C++",
+      "Ruby"
     ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
+    "posted": "2026-11-17T00:01:37.113Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:bbdcc570-de0d-4e44-9563-59b5fc432d63",
-    "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
-    "company": "GE HealthCare",
-    "companyDomain": "gehealthcare.com",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/jhzqsc1",
+    "dedupeKey": "job:d0824151-79f1-49fc-b4f0-efe63b015290",
+    "companyId": "company_0ab51a11ab739f20427e660c7f76f4be",
+    "company": "Aidence",
+    "companyDomain": "aidence.com",
+    "role": "Quality Assurance Principal",
+    "applyUrl": "https://go.landed.jobs/hf4uc22",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [],
+    "posted": "2026-11-16T21:11:36.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d03bb0a5-b5d7-463f-96d4-b052eba6f569",
+    "companyId": "company_309346dec88d0a80e3476df7408fa2a6",
+    "company": "Appfire",
+    "companyDomain": "appfire.com",
+    "role": "SOC Analyst - Global Security Operations",
+    "applyUrl": "https://go.landed.jobs/w2bqy88",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Azure"
+    ],
+    "posted": "2026-11-16T14:39:19.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:01cbc5c2-6516-4d87-b914-c30506061eba",
+    "companyId": "company_c92d6210e81aced6063b2fc3bd554d4e",
+    "company": "Parspec",
+    "companyDomain": "parspec.io",
+    "role": "Software Engineer - 2 (Backend)",
+    "applyUrl": "https://go.landed.jobs/i4tff10",
     "location": "Bengaluru, India",
     "locations": [
       "Bengaluru, India"
@@ -5051,16 +5456,514 @@
     "level": "mid",
     "skills": [
       "Python",
-      "Java",
-      "GO",
-      "Kubernetes",
+      "Golang",
+      "RESTful APIs",
+      "MySQL",
+      "AWS",
       "Docker",
-      "microservices"
+      "CI/CD",
+      "distributed systems",
+      "Elasticsearch",
+      "LLM",
+      "vLLM"
     ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
+    "posted": "2026-11-16T14:36:47.289Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:03517bc4-46ae-4ba3-8bdc-80ccc781d6c8",
+    "companyId": "company_9f9bed8551f09ec28037a19b0f178546",
+    "company": "DeepIntent",
+    "companyDomain": "deepintent.com",
+    "role": "Senior Staff Software Engineer - Mobile",
+    "applyUrl": "https://go.landed.jobs/dev0bn9",
+    "location": "Pune, India",
+    "locations": [
+      "Pune, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "React",
+      "React Native",
+      "Kotlin",
+      "Swift",
+      "CI/CD",
+      "observability",
+      "LLM"
+    ],
+    "posted": "2026-11-16T12:59:52.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:bc9b0a23-35ac-46c2-a831-2369bee98608",
+    "companyId": "company_6437bf73d4c8010f3573bc6a8b06160d",
+    "company": "Pico",
+    "companyDomain": "pico.net",
+    "role": "Sales Engineer - Networks",
+    "applyUrl": "https://go.landed.jobs/py40c3p",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Salesforce"
+    ],
+    "posted": "2026-11-16T10:37:17.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:50892470-5848-47f6-8dc6-98086ab310b3",
+    "companyId": "company_a5adca41ab18c75927e6d3b03cc75957",
+    "company": "Vonage",
+    "companyDomain": "vonage.com",
+    "role": "Full Stack Developer II (Vue.js, Node.js, AWS)",
+    "applyUrl": "https://go.landed.jobs/8tc5s3m",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "TypeScript",
+      "JavaScript",
+      "Vue",
+      "React",
+      "AWS",
+      "microservices",
+      "CI/CD",
+      "distributed systems"
+    ],
+    "posted": "2026-11-16T10:29:40.000Z",
+    "companyTier": "C",
     "companyBadges": [
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:7f764848-6ed3-4c6e-8e21-c5c9c497c516",
+    "companyId": "company_0d21e6715962c82a898990cc7a614b55",
+    "company": "Version 1",
+    "companyDomain": "version1.com",
+    "role": "Senior AI Engineer",
+    "applyUrl": "https://go.landed.jobs/m7s8z2x",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Snowflake",
+      "AWS",
+      "RAG",
+      "LLM",
+      "agentic workflows"
+    ],
+    "posted": "2026-11-16T10:15:30.095Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:01af5e95-7d31-4ccd-961a-f69c0bbd271a",
+    "companyId": "company_60d16e999bf2a60a29affc1463a9c506",
+    "company": "Vyntelligence",
+    "companyDomain": "vyntelligence.com",
+    "role": "Solutions Engineer (Product Services)",
+    "applyUrl": "https://go.landed.jobs/xzdi9fc",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "New Delhi, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "SQL",
+      "Python",
+      "JavaScript",
+      "AWS"
+    ],
+    "posted": "2026-11-16T09:55:30.132Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:5ee9e37a-c55a-4854-b65c-841e07ebd76e",
+    "companyId": "company_c3ebba267936512aed58b6c4a9fda225",
+    "company": "Signzy",
+    "companyDomain": "signzy.com",
+    "role": "QA Intern",
+    "applyUrl": "https://go.landed.jobs/ex5h44z",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
+    "posted": "2026-11-16T09:01:01.527Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:7f87ae51-a894-4897-987d-0de0fdef3bd7",
+    "companyId": "company_39e41eef8ed89ed2ca9131d15692db9d",
+    "company": "Payoneer",
+    "companyDomain": "payoneer.com",
+    "role": "Principal Mobile Engineer",
+    "applyUrl": "https://go.landed.jobs/1doishq",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [
+      "observability",
+      "CI/CD"
+    ],
+    "posted": "2026-11-16T07:50:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:140c8f5f-ed81-4f41-bc37-43aa209d6c5b",
+    "companyId": "company_39e41eef8ed89ed2ca9131d15692db9d",
+    "company": "Payoneer",
+    "companyDomain": "payoneer.com",
+    "role": "Senior Data Product Manager",
+    "applyUrl": "https://go.landed.jobs/80p0fdb",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "product strategy",
+      "SQL",
+      "BigQuery"
+    ],
+    "posted": "2026-11-16T05:29:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:0e7d0097-f320-4f20-a05c-f1cad0de2421",
+    "companyId": "company_18facaf6b72f9a42488f23731b78556c",
+    "company": "ArmorCode",
+    "companyDomain": "armorcode.com",
+    "role": "Director of Engineering",
+    "applyUrl": "https://go.landed.jobs/fe6911x",
+    "location": "Gurugram, India · Bengaluru, India",
+    "locations": [
+      "Gurugram, India",
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "director",
+    "skills": [
+      "agentic workflows"
+    ],
+    "posted": "2026-11-16T04:50:21.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:0c1cde5d-a0f7-4d9a-bce5-e776fca95a17",
+    "companyId": "company_4023a5cdb3f8940126ba4ec20a309361",
+    "company": "CashFlo",
+    "companyDomain": "cashflo.io",
+    "role": "QA Tester",
+    "applyUrl": "https://go.landed.jobs/hn9lmq9",
+    "location": "Mumbai, India",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "manual and automated testing",
+      "Selenium",
+      "Cypress",
+      "Playwright",
+      "Postman",
+      "REST Assured",
+      "SQL",
+      "Agile / Scrum"
+    ],
+    "posted": "2026-11-15T17:16:36.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:72da97ff-e1b5-40a8-ac9d-fce201536815",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "AI Architect",
+    "applyUrl": "https://go.landed.jobs/dr71x6i",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "mongoDB",
+      "Spark",
+      "Airflow",
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "PyTorch",
+      "Tensorflow",
+      "LLMs"
+    ],
+    "posted": "2026-11-15T15:45:31.363Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:962108c3-793a-433b-a7bc-f7ab840c1b9a",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "GenAI/Agentic AI specialists",
+    "applyUrl": "https://go.landed.jobs/4u3rrjd",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "AWS",
+      "Azure",
+      "PyTorch",
+      "TensorFlow",
+      "LLMs",
+      "RAG",
+      "fine-tuning",
+      "prompt engineering",
+      "AI agents",
+      "vector databases",
+      "NLP"
+    ],
+    "posted": "2026-11-15T15:42:05.707Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:e6230df4-5085-4872-819e-086877feac9e",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "GenAI/Agentic AI specialists",
+    "applyUrl": "https://go.landed.jobs/ju8hven",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "AWS",
+      "Azure",
+      "PyTorch",
+      "TensorFlow",
+      "LLMs",
+      "RAG",
+      "fine-tuning",
+      "prompt engineering",
+      "AI agents",
+      "vector databases",
+      "NLP"
+    ],
+    "posted": "2026-11-15T15:41:38.733Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:bb785ce9-7b0e-4cd6-a994-8a4a0d897e91",
+    "companyId": "company_08965e89022e222d153aa8088bf3c8cd",
+    "company": "Certa.ai",
+    "companyDomain": "certa.ai",
+    "role": "Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/sl4v58d",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "RESTful APIs"
+    ],
+    "posted": "2026-11-15T15:35:47.159Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:1781e590-7d99-401e-ae27-eab0512871db",
+    "companyId": "company_15020cec1c7aab8e387d52b6c9489102",
+    "company": "Quest Global",
+    "companyDomain": "quest-global.com",
+    "role": "Senior AI/ML Engineer",
+    "applyUrl": "https://go.landed.jobs/8k7sc6q",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-11-15T10:56:54.957Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:82c14391-c612-41cf-8db9-ab2238b3dccd",
+    "companyId": "company_f07026f7872c7253072335e9a8762241",
+    "company": "Capco",
+    "companyDomain": "capco.com",
+    "role": "Full Stack Developer",
+    "applyUrl": "https://go.landed.jobs/ra85xw9",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Java",
+      "Angular",
+      "RESTful APIs",
+      "JavaScript",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "posted": "2026-11-15T09:18:44.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:006c9a4e-33cd-4ec8-bb95-c23d8b2afc62",
+    "companyId": "company_f36587ee40a7e443537b49bea10c8dd6",
+    "company": "Agoda",
+    "companyDomain": "agoda.com",
+    "role": "Staff Software Engineer - BackEnd (Level 4): Fast track 1-Day Program (26th November) (Gurugram, IND)",
+    "applyUrl": "https://go.landed.jobs/bv9qm69",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Go",
+      "C#",
+      "Scala"
+    ],
+    "posted": "2026-11-15T05:50:26.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:501d7bb6-2a4b-477d-ad53-6d31dd53525a",
+    "companyId": "company_1a0c87a975653039b4e70ac964e3d8b3",
+    "company": "Seismic",
+    "companyDomain": "seismic.com",
+    "role": "Quality Engineer I",
+    "applyUrl": "https://go.landed.jobs/t3l0kuc",
+    "location": "Hyderabad, India",
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Go",
+      "Python",
+      "JavaScript",
+      "Java",
+      "CI/CD"
+    ],
+    "posted": "2026-11-15T05:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$3B valuation"
     ]
   },
   {
@@ -5258,37 +6161,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:0c1cde5d-a0f7-4d9a-bce5-e776fca95a17",
-    "companyId": "company_4023a5cdb3f8940126ba4ec20a309361",
-    "company": "CashFlo",
-    "companyDomain": "cashflo.io",
-    "role": "QA Tester",
-    "applyUrl": "https://go.landed.jobs/hn9lmq9",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "manual and automated testing",
-      "Selenium",
-      "Cypress",
-      "Playwright",
-      "Postman",
-      "REST Assured",
-      "SQL",
-      "Agile / Scrum"
-    ],
-    "posted": "2026-11-13T19:19:20.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
     ]
   },
   {
@@ -5590,31 +6462,6 @@
     "companyBadges": [
       "Series C"
     ]
-  },
-  {
-    "dedupeKey": "job:f129c455-1c31-4081-b814-8f09cf301195",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "OpenText Workflow Backend Developer – Operations Orchestration (DevOps Team)",
-    "applyUrl": "https://go.landed.jobs/xb82byl",
-    "location": "India",
-    "locations": [
-      "India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "SQL",
-      "Terraform"
-    ],
-    "posted": "2026-11-13T12:40:31.268Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:435327d3-4015-47c4-8362-50ef564f1a11",
@@ -6168,6 +7015,41 @@
     "posted": "2026-11-13T07:32:46.826Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:83942179-d1e8-4ab1-b7ba-9d01730ba503",
+    "companyId": "company_9649eaa4d89577c0450f8c35e2216261",
+    "company": "Redbird",
+    "companyDomain": "redbird.io",
+    "role": "QA Engineer",
+    "applyUrl": "https://go.landed.jobs/ipknjim",
+    "location": "🌐 Remote (India)",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "REST APIs",
+      "distributed systems",
+      "microservices",
+      "SQL",
+      "Docker",
+      "CI/CD",
+      "LLM",
+      "observability"
+    ],
+    "posted": "2026-11-13T07:18:46.965Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "YC W22",
+      "Seed"
+    ]
   },
   {
     "dedupeKey": "job:0a32041f-a551-4ae8-9d0f-5e6115671d58",
@@ -6736,35 +7618,6 @@
     ]
   },
   {
-    "dedupeKey": "job:44498080-66ea-4787-86c4-11537f96342c",
-    "companyId": "company_15020cec1c7aab8e387d52b6c9489102",
-    "company": "Quest Global",
-    "companyDomain": "quest-global.com",
-    "role": "Senior React + Python Developer",
-    "applyUrl": "https://go.landed.jobs/pksa467",
-    "location": "Thiruvananthapuram, India",
-    "locations": [
-      "Thiruvananthapuram, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "js",
-      "React",
-      "AWS",
-      "Azure",
-      "Next.js",
-      "Kafka",
-      "Redis"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:56ae21c0-d13c-4b35-9df6-2e9a386d610e",
     "companyId": "company_388afca5bb8cb122ef330fd4258bdd9b",
     "company": "Newfold Digital",
@@ -7029,6 +7882,35 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:e590fa92-b873-4b40-951f-8c467ee81a37",
+    "companyId": "company_c7f9b673780a2e3a28307ba111607991",
+    "company": "Ciena",
+    "companyDomain": "ciena.com",
+    "role": "UI/UX Designer",
+    "applyUrl": "https://go.landed.jobs/0iyairc",
+    "location": "Gurugram, India",
+    "locations": [
+      "Gurugram, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [
+      "user research",
+      "usability testing",
+      "heuristic evaluations",
+      "design systems",
+      "design language",
+      "UX guidelines"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:f06e07d6-6491-4283-9bae-7f26bed88cd3",
     "companyId": "company_19985bb75cb39e9047d23a53e9f804a0",
     "company": "Blue Yonder",
@@ -7087,878 +7969,6 @@
       "NextJS"
     ],
     "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:7a8f370d-f820-4678-8bb1-9c6ababdf823",
-    "companyId": "company_20ea9e523818264b63f21ab198ebd6bf",
-    "company": "Nexla",
-    "companyDomain": "nexla.com",
-    "role": "Senior Software Engineer (JVM)",
-    "applyUrl": "https://go.landed.jobs/70qk04f",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Kafka",
-      "Spark",
-      "distributed systems",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-12T17:43:54.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:e2cfd031-b703-4922-baaf-8cfa917add98",
-    "companyId": "company_ff88d690bd0c28d896cc2961eea72d7f",
-    "company": "CloudSEK",
-    "companyDomain": "cloudsek.com",
-    "role": "Customer Threat Advisor (Offensive)",
-    "applyUrl": "https://go.landed.jobs/zbnr9dn",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "security",
-    "level": "mid",
-    "skills": [
-      "penetration testing",
-      "Python",
-      "Go",
-      "AWS",
-      "Azure"
-    ],
-    "posted": "2026-11-12T15:34:05.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:843d5567-7142-4257-9bee-406cbaf46631",
-    "companyId": "company_db0ed4e14e52485d7892348d8a6124e3",
-    "company": "SonicWall",
-    "companyDomain": "sonicwall.com",
-    "role": "Principal Engineer — Python is a must",
-    "applyUrl": "https://go.landed.jobs/67y2yax",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Python",
-      "distributed systems",
-      "microservices",
-      "Redis",
-      "C++",
-      "PyTorch",
-      "SQL",
-      "MySQL",
-      "MongoDB",
-      "Docker"
-    ],
-    "posted": "2026-11-12T14:48:55.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d4b1da69-d808-4bd2-a61d-27dc85bc1f1c",
-    "companyId": "company_9f668dd39dcad6ba0706fa6ba7d147ff",
-    "company": "Precisely",
-    "companyDomain": "precisely.com",
-    "role": "Principal Support Engineer – IBM Sterling B2Bi & Data Integration",
-    "applyUrl": "https://go.landed.jobs/e6d3wpn",
-    "location": "India",
-    "locations": [
-      "India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Kubernetes",
-      "LLM",
-      "distributed systems"
-    ],
-    "posted": "2026-11-12T14:04:57.000Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:2323eced-ffef-4d2b-b016-c533bf88a715",
-    "companyId": "company_0261d2931dfc62443d68dbe61709dc32",
-    "company": "Dyad Tech",
-    "companyDomain": "dyadtech.com",
-    "role": "Lead QA Automation Engineer",
-    "applyUrl": "https://go.landed.jobs/p8wwdkb",
-    "location": "Ahmedabad, India",
-    "locations": [
-      "Ahmedabad, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "Kubernetes",
-      "Docker",
-      "CI/CD",
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "Java",
-      "SQL",
-      "AWS",
-      "Azure",
-      "LLM"
-    ],
-    "posted": "2026-11-12T13:55:46.403Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:6d1d22d3-fa33-44d1-9713-85f898f1171e",
-    "companyId": "company_0d21e6715962c82a898990cc7a614b55",
-    "company": "Version 1",
-    "companyDomain": "version1.com",
-    "role": "Senior Java Developer",
-    "applyUrl": "https://go.landed.jobs/tw5j2sd",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Snowflake",
-      "AWS",
-      "Java",
-      "Python",
-      "PostgreSQL",
-      "MySQL",
-      "RESTful APIs"
-    ],
-    "posted": "2026-11-12T12:26:11.759Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:f1a00872-fbfd-4f5f-8a48-d935532c0900",
-    "companyId": "company_1f0648b23610903db429ad0e6bb37a8b",
-    "company": "CynLr",
-    "companyDomain": "cynlr.com",
-    "role": "Test and Certification Engineer",
-    "applyUrl": "https://go.landed.jobs/k7rxqe0",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-12T12:23:36.601Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:2f014ce8-befc-4d79-9b70-514098382160",
-    "companyId": "company_0d21e6715962c82a898990cc7a614b55",
-    "company": "Version 1",
-    "companyDomain": "version1.com",
-    "role": "Golang Developer (with Java experience)",
-    "applyUrl": "https://go.landed.jobs/oh2ykx0",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Snowflake",
-      "AWS",
-      "Go",
-      "Python",
-      "Java",
-      "Kafka"
-    ],
-    "posted": "2026-11-12T12:22:50.649Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:2b9ec2e8-1ea4-4c93-bf93-50462eedfa6e",
-    "companyId": "company_8b1d03769418e7fd2aa1a06a1983218c",
-    "company": "QAD",
-    "companyDomain": "qad.com",
-    "role": "Apprentice - Engineer",
-    "applyUrl": "https://go.landed.jobs/qjba7nk",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "Java",
-      "C#",
-      "AWS",
-      "MySQL",
-      "MongoDB"
-    ],
-    "posted": "2026-11-12T12:08:22.510Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:d2714520-7a83-4b33-a13e-076d1c932a42",
-    "companyId": "company_82f857137a9ee3a92d37e1e331583201",
-    "company": "Experian",
-    "companyDomain": "experian.com",
-    "role": "Analytics Consultant",
-    "applyUrl": "https://go.landed.jobs/yde7waj",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-11-12T12:07:36.902Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:85951455-1aab-4ef3-bf12-a4d8bcfb04e2",
-    "companyId": "company_0d21e6715962c82a898990cc7a614b55",
-    "company": "Version 1",
-    "companyDomain": "version1.com",
-    "role": "Senior PHP Consultant",
-    "applyUrl": "https://go.landed.jobs/50kn2nj",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "PHP",
-      "SQL",
-      "Redis"
-    ],
-    "posted": "2026-11-12T12:03:46.126Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:2ad09f24-45e6-4b94-b681-88cdd4b480d2",
-    "companyId": "company_82f857137a9ee3a92d37e1e331583201",
-    "company": "Experian",
-    "companyDomain": "experian.com",
-    "role": "Risk Analyst – Data Science & Analytics",
-    "applyUrl": "https://go.landed.jobs/x1szhxp",
-    "location": "Mumbai, India",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "SQL",
-      "Spark",
-      "Databricks"
-    ],
-    "posted": "2026-11-12T12:02:30.464Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:b16feb36-0d4e-49e0-84b3-ce154efa51e5",
-    "companyId": "company_0e47ac8f44e42bfb57b3b226ada8eefe",
-    "company": "Sumo Logic",
-    "companyDomain": "sumologic.com",
-    "role": "Senior Product Manager I",
-    "applyUrl": "https://go.landed.jobs/vrgu76b",
-    "location": "Noida, India",
-    "locations": [
-      "Noida, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "Observability",
-      "AI agents",
-      "SQL"
-    ],
-    "posted": "2026-11-12T11:45:02.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:cc3aef30-6b73-4d1d-8f36-d10ec083c733",
-    "companyId": "company_0e47ac8f44e42bfb57b3b226ada8eefe",
-    "company": "Sumo Logic",
-    "companyDomain": "sumologic.com",
-    "role": "Senior Product Manager I",
-    "applyUrl": "https://go.landed.jobs/thqbm6x",
-    "location": "Noida, India",
-    "locations": [
-      "Noida, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "SQL"
-    ],
-    "posted": "2026-11-12T11:44:27.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:3f344ec5-f43e-46d9-afc7-cd96f497d79d",
-    "companyId": "company_a2925d0e21f1cb0d7c73b47794431d4f",
-    "company": "Enveu",
-    "companyDomain": "enveu.com",
-    "role": "Full-Stack Software Engineering Intern",
-    "applyUrl": "https://go.landed.jobs/d2m62en",
-    "location": "Noida, India",
-    "locations": [
-      "Noida, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Java",
-      "Angular",
-      "MySQL",
-      "REST APIs",
-      "TypeScript",
-      "SQL",
-      "MongoDB",
-      "Docker",
-      "Redis",
-      "Elasticsearch",
-      "Kafka",
-      "CI/CD"
-    ],
-    "posted": "2026-11-12T11:34:05.993Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:0b76f2f2-504c-4b19-9ea6-fd2cf4a11198",
-    "companyId": "company_53e80846c3921a4dddca71bc35c1f3d4",
-    "company": "Telefonica Tech",
-    "companyDomain": "telefonicatech.uk",
-    "role": "AI App Developer",
-    "applyUrl": "https://go.landed.jobs/2696vk9",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Databricks",
-      "Azure"
-    ],
-    "posted": "2026-11-12T11:08:13.932Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:787ddbf1-360f-489f-81be-c033779fa9f8",
-    "companyId": "company_f8257b671165b7e481e2e8b6c31163a2",
-    "company": "Glomo",
-    "companyDomain": "glomopay.com",
-    "role": "Offensive Security & Threat Hunting Engineer",
-    "applyUrl": "https://go.landed.jobs/6sg5809",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "security",
-    "level": "mid",
-    "skills": [
-      "Penetration testing",
-      "Python",
-      "LLM",
-      "PCI-DSS",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-12T10:31:27.536Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:8b79fe21-0a0f-4e37-9ffa-0808638f0339",
-    "companyId": "company_50dedc829cee5715e75936c09bf96faf",
-    "company": "AbhiBus",
-    "companyDomain": "abhibus.com",
-    "role": "Product Manager",
-    "applyUrl": "https://go.landed.jobs/t3lnnle",
-    "location": "Hyderabad, India",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "Figma"
-    ],
-    "posted": "2026-11-12T10:12:11.762Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:f80ce6ff-65e6-4a49-9e28-86866195784c",
-    "companyId": "company_71b73478382c910a035c8fbafe0293f9",
-    "company": "PAR Technology",
-    "companyDomain": "partech.com",
-    "role": "Software Engineer II- ROR",
-    "applyUrl": "https://go.landed.jobs/ox9vcu8",
-    "location": "Jaipur, India · Gurugram, India",
-    "locations": [
-      "Jaipur, India",
-      "Gurugram, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Ruby",
-      "MySQL",
-      "MongoDB",
-      "Snowflake"
-    ],
-    "posted": "2026-11-12T10:01:09.305Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:3aed6ebb-d447-4909-8897-efc738771f04",
-    "companyId": "company_18a1199dd0077a3938d4bfc579e1c970",
-    "company": "AppViewX",
-    "companyDomain": "appviewx.com",
-    "role": "Senior SDET Engineer",
-    "applyUrl": "https://go.landed.jobs/871a4kq",
-    "location": "Coimbatore, India · Bengaluru, India",
-    "locations": [
-      "Coimbatore, India",
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "Python",
-      "RAG",
-      "LLM",
-      "containers",
-      "CI/CD",
-      "observability"
-    ],
-    "posted": "2026-11-12T09:44:38.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:136dd995-2a88-48f5-b363-8246a32d74ec",
-    "companyId": "company_82f857137a9ee3a92d37e1e331583201",
-    "company": "Experian",
-    "companyDomain": "experian.com",
-    "role": "Network Security Manager",
-    "applyUrl": "https://go.landed.jobs/6qeluu7",
-    "location": "Hyderabad, India",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "security",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T09:36:40.594Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:61e1d035-1f88-4586-8567-720e9cd35b7b",
-    "companyId": "company_068449207aecf130baf7175f0c8816e0",
-    "company": "Drivetrain",
-    "companyDomain": "drivetrain.ai",
-    "role": "Security Engineer",
-    "applyUrl": "https://go.landed.jobs/s6sl8ii",
-    "location": "🌐 Remote (India)",
-    "locations": [
-      "India"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "CI/CD",
-      "threat modeling",
-      "SOC 2",
-      "LLMs",
-      "Terraform",
-      "Python",
-      "Go"
-    ],
-    "posted": "2026-11-12T09:32:15.527Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:d72bf23e-0cbc-4dc6-825f-0053f8575ff5",
-    "companyId": "company_44569939d12e7ac7d3a14376dd8f29fb",
-    "company": "ixigo",
-    "companyDomain": "ixigo.com",
-    "role": "Founding Engineer - Voice AI",
-    "applyUrl": "https://go.landed.jobs/9dvlu6x",
-    "location": "Delhi, India",
-    "locations": [
-      "Delhi, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "ai_machine_learning",
-    "level": "vp",
-    "skills": [
-      "LLM"
-    ],
-    "posted": "2026-11-12T09:32:08.414Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ee7f8338-9a40-4439-bb5e-7d5824143ccd",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "2WP Motorcycle ABS application - Sr. Engineer -Pune",
-    "applyUrl": "https://go.landed.jobs/r4uaoaw",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T09:26:39.496Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:9e4ef915-3acb-40c9-8941-b2fd9987dbf7",
-    "companyId": "company_1deb0bd0fa0b60abc37e334fb89ba89e",
-    "company": "nference",
-    "companyDomain": "nference.com",
-    "role": "Intern - Data Scientist",
-    "applyUrl": "https://go.landed.jobs/w153t9t",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_science_analytics",
-    "level": "intern",
-    "skills": [
-      "LLM",
-      "prompting",
-      "embeddings",
-      "Python",
-      "NLP"
-    ],
-    "posted": "2026-11-12T09:22:59.417Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:703c03d4-3b34-4ab6-8c8b-ed3822a7099d",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "Audio techstack: Automotive Android and QNX developer",
-    "applyUrl": "https://go.landed.jobs/c7fmqn3",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "C++"
-    ],
-    "posted": "2026-11-12T09:05:38.112Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:6930dd41-bbc7-411e-9782-f37cc5de2b87",
-    "companyId": "company_a0edcca66009cd8c650df7a6fc5177d1",
-    "company": "DDN",
-    "companyDomain": "ddn.com",
-    "role": "Senior Manager, IT Service Operations",
-    "applyUrl": "https://go.landed.jobs/fapwsqm",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "observability",
-      "SOC 2"
-    ],
-    "posted": "2026-11-12T09:05:31.016Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:70213cf7-3fa3-4522-89ab-fa12ed65ab1b",
-    "companyId": "company_82f857137a9ee3a92d37e1e331583201",
-    "company": "Experian",
-    "companyDomain": "experian.com",
-    "role": "Senior Software Engineer",
-    "applyUrl": "https://go.landed.jobs/ev8f9co",
-    "location": "Hyderabad, India",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "C#",
-      "TypeScript",
-      "React",
-      "SQL",
-      "AWS",
-      "CI/CD",
-      "LLM",
-      "RAG"
-    ],
-    "posted": "2026-11-12T08:24:26.237Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:f98e2463-4d23-4c94-a3c0-b96c6048194d",
-    "companyId": "company_c50d3f830b2e3bb18908b25de103ccb9",
-    "company": "FIRY",
-    "companyDomain": "firy.com",
-    "role": "Senior Software Engineer - Backend",
-    "applyUrl": "https://go.landed.jobs/orxebcg",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Java",
-      "Golang",
-      "Redis",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-12T08:21:26.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:06e8b2ab-abb0-4e9e-9884-7294c65467e0",
-    "companyId": "company_3f8fa5a59c284d18941055a60c8fcbf1",
-    "company": "Skillz",
-    "companyDomain": "skillz.com",
-    "role": "Senior Software Engineer - Backend",
-    "applyUrl": "https://go.landed.jobs/oug6mtr",
-    "location": "Bengaluru, India",
-    "locations": [
-      "Bengaluru, India"
-    ],
-    "remote": "hybrid",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Java",
-      "Golang",
-      "Redis",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-12T08:21:23.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$150M valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:735797e7-d891-4879-8c4f-7efa38429d7f",
-    "companyId": "company_eab28ea846927e9dfcd6aff03bbfb705",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Axway API Gateway Module Lead",
-    "applyUrl": "https://go.landed.jobs/l9v8cni",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T07:31:07.019Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:3719af6b-8988-42a5-ab22-9cdb9f3d59a1",
-    "companyId": "company_f07026f7872c7253072335e9a8762241",
-    "company": "Capco",
-    "companyDomain": "capco.com",
-    "role": "AI Engineer",
-    "applyUrl": "https://go.landed.jobs/u9srzxv",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "C++",
-      "SQL",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "PyTorch",
-      "TensorFlow",
-      "computer vision",
-      "NLP"
-    ],
-    "posted": "2026-11-12T07:25:20.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:4d90855b-0fbb-43b5-a23f-7924e9b02ff8",
-    "companyId": "company_f07026f7872c7253072335e9a8762241",
-    "company": "Capco",
-    "companyDomain": "capco.com",
-    "role": "Data Engineer",
-    "applyUrl": "https://go.landed.jobs/6pnm5ya",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-12T07:22:45.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:7f0f9dbc-17d1-44ac-9cb9-76a6f1d30554",
-    "companyId": "company_f07026f7872c7253072335e9a8762241",
-    "company": "Capco",
-    "companyDomain": "capco.com",
-    "role": "Sr Data Engineer",
-    "applyUrl": "https://go.landed.jobs/ijaos36",
-    "location": "Pune, India",
-    "locations": [
-      "Pune, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-12T07:21:51.000Z",
     "companyTier": "U",
     "companyBadges": []
   }
