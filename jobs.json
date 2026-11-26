@@ -1797,6 +1797,29 @@
     ]
   },
   {
+    "dedupeKey": "job:264a06ff-cbdc-4ad3-a314-ffd8880214a6",
+    "companyId": "company_ad4025c634174b7fd5bb39b779dc8b19",
+    "company": "Zebra Technologies",
+    "companyDomain": "zebra.com",
+    "role": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+    "applyUrl": "https://go.landed.jobs/yltz4zl",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-26T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$14B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:751f313c-91d6-4461-ae6c-43b1f1a620e0",
     "companyId": "company_87c83743dbf850b8681a09588d3a28ad",
     "company": "PhonePe",
@@ -7911,27 +7934,5 @@
     "posted": "2026-11-24T09:48:49.000Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:5edd35a3-a410-42a4-b96b-46c7c93fe829",
-    "companyId": "company_d306f500d9f0b934d73e494b375bddc4",
-    "company": "Cognida.ai",
-    "companyDomain": "cognida.ai",
-    "role": "IT/Cloud Engineer",
-    "applyUrl": "https://go.landed.jobs/xoledvu",
-    "location": "Hyderabad, India",
-    "locations": [
-      "Hyderabad, India"
-    ],
-    "remote": "",
-    "region": "india",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-24T09:44:08.347Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
   }
 ]
